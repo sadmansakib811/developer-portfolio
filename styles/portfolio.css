@@ -76,10 +76,10 @@ section{
 }
 /* About Section Styles */
 .about{
- 
- background-color: #FFF8F3;
+ margin: 130px 230px;
+ background-color: #ebc8b1;
  border-radius: 10px;
- padding: 130px 150px;
+ padding: 130px 156px;
  text-align: center;
 
 }
@@ -110,7 +110,7 @@ margin-bottom: 30px;
 
 /* What I Do Section Styles */
 .what-i-do{
-    margin-top: 130px;
+    margin: 130px 230px;
 
 }
 .skills-container{
@@ -136,7 +136,9 @@ margin-bottom: 30px;
 /* resume styles */
 .resume-content{
     display: flex;
-    gap:24px;
+    gap:40px;
+    margin: 130px 230px;
+
 }
 .resume-item{
     margin-top: 30px;
